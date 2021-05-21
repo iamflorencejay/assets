@@ -1,0 +1,23 @@
+{
+    "name": "LBRY",
+    "website": "https://lbry.com",
+    "source_code": "https://github.com/lbryio",
+    "description": "LBRY does to publishing, what Bitcoin did to money.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/LBRYcom ",
+            "handle": "LBRYcom"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/lbry",
+            "handle": "lbry"
+        }
+    ],
+    "explorer": "https://explorer.lbry.com",
+    "symbol": "LBC",
+    "type": "COIN",
+    "decimals": 2,
+    "status": "active"
+}
